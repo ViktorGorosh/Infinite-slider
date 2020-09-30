@@ -1,0 +1,3 @@
+.slider-wrap{width:130px;margin:20px auto 0;border:3px solid black;overflow:hidden}.slider{width:13000px;overflow:hidden;display:-webkit-box;display:-ms-flexbox;display:flex}.slide{width:130px;height:130px}.dots{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;padding:0}.dot{display:block;width:10px;height:10px;border-radius:50%;background-color:gray;margin-right:10px;cursor:pointer}.dot:last-child{margin-right:0}.dot.active{background-color:lightblue}.controls{text-align:center}.next,.prev{cursor:pointer}
+
+/*# sourceMappingURL=slider.css.map */
